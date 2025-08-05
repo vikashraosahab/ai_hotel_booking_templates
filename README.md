@@ -2,13 +2,13 @@
 A modern, responsive hotel booking template built with React, Tailwind CSS, and AI-powered features
 
 Project Screenshot
+<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-09" src="https://github.com/user-attachments/assets/2e38630c-bddd-4447-a640-adc9e478d099" />
 <img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-37" src="https://github.com/user-attachments/assets/cb130080-ccd5-4a9e-881b-507513d35711" />
 <img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-35" src="https://github.com/user-attachments/assets/c8377b38-ed06-4d0f-82aa-c2f127f3e25d" />
 <img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-32" src="https://github.com/user-attachments/assets/4c56f88b-a611-4a93-9e16-6c956bf75137" />
 <img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-27" src="https://github.com/user-attachments/assets/62932fcd-487a-40e6-bd78-1f236cfe9820" />
 <img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-22" src="https://github.com/user-attachments/assets/b444a2c9-c56b-4212-9cd9-e29619c2ba2b" />
 <img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-17" src="https://github.com/user-attachments/assets/916ec03e-a6da-41ed-b842-5d50a24bbe01" />
-<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-09" src="https://github.com/user-attachments/assets/2e38630c-bddd-4447-a640-adc9e478d099" />
 
 
 
