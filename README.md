@@ -2,14 +2,14 @@
 A modern, responsive hotel booking template built with React, Tailwind CSS, and AI-powered features
 
 Project Screenshot
-<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-37" src="https://github.com/user-attachments/assets/90db51f3-f04b-4b38-858b-2e01b5f44fea" />
-<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-35" src="https://github.com/user-attachments/assets/8b99e5a1-be9f-4dbc-84d6-2cdbe7a08ab9" />
-<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-32" src="https://github.com/user-attachments/assets/03493caf-9984-4a9a-b41f-541f0c4d51c1" />
-<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-27" src="https://github.com/user-attachments/assets/565482c0-c1ae-41d1-8c95-768dcba361b0" />
-<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-22" src="https://github.com/user-attachments/assets/408c7644-95c7-49b5-9d1d-da27551d3e8e" />
-<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-17" src="https://github.com/user-attachments/assets/f783415f-4767-4415-bcff-ee37b0a6559e" />
-<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-09" src="https://github.com/user-attachments/assets/45e16ef2-9863-46b3-96ef-c5da07728cbe" />
-<img width="1366" height="736" alt="Screenshot from 2025-01-05 06-01-18" src="https://github.com/user-attachments/assets/cafd0b5a-42be-4a5c-854c-55d5ae89fac1" />
+<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-37" src="https://github.com/user-attachments/assets/cb130080-ccd5-4a9e-881b-507513d35711" />
+<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-35" src="https://github.com/user-attachments/assets/c8377b38-ed06-4d0f-82aa-c2f127f3e25d" />
+<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-32" src="https://github.com/user-attachments/assets/4c56f88b-a611-4a93-9e16-6c956bf75137" />
+<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-27" src="https://github.com/user-attachments/assets/62932fcd-487a-40e6-bd78-1f236cfe9820" />
+<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-22" src="https://github.com/user-attachments/assets/b444a2c9-c56b-4212-9cd9-e29619c2ba2b" />
+<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-17" src="https://github.com/user-attachments/assets/916ec03e-a6da-41ed-b842-5d50a24bbe01" />
+<img width="1366" height="768" alt="Screenshot from 2025-08-05 20-45-09" src="https://github.com/user-attachments/assets/2e38630c-bddd-4447-a640-adc9e478d099" />
+
 
 
 ✨ Key Features
